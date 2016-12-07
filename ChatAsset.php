@@ -6,6 +6,7 @@ use yii\web\AssetBundle;
 /**
  * Class ChatAsset
  * @package jones\wschat
+ * 777 Ramil
  */
 class ChatAsset extends AssetBundle
 {
